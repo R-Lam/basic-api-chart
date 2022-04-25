@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  basic-api-chart:
+  - apiVersion: v2
+    appVersion: 1.4.0
+    created: "2022-04-25T05:44:12.489283629Z"
+    description: A Helm chart for Kubernetes
+    digest: 7badf78ecab94eb7a46f6b94929b8231a016d5f5da5071132f003a03d9d90bf5
+    name: basic-api-chart
+    type: application
+    urls:
+    - https://R-Lam.github.io/basic-api-chart/basic-api-chart-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-04-25T05:44:12.488341816Z"
