@@ -9,6 +9,6 @@ entries:
     name: basic-api-chart
     type: application
     urls:
-    - https://R-Lam.github.io/basic-api-chart/basic-api-chart-0.0.1.tgz
+    - https://r-lam.github.io/basic-api-chart/basic-api-chart-0.0.1.tgz
     version: 0.0.1
 generated: "2022-04-25T05:44:12.488341816Z"
